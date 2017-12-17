@@ -1,5 +1,6 @@
 /*
- * 
+ * A number is Sparse if there are no two adjacent 1s in its binary representation. 
+ * For example 5 (binary representation: 101) is sparse, but 6 (binary representation: 110) is not sparse.
  */
 
 package com.nitin.algo;
